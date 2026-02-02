@@ -1,0 +1,5 @@
+My name is JVS
+This project implements a RAG system using Endee
+RAG stands for Retrieval Augmented Generation
+Semantic search retrieves documents by meaning
+Endee is a vector database for embeddings
